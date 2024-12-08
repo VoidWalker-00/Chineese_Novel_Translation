@@ -1,0 +1,332 @@
+{
+  "novels": [
+    {
+      "title": "Reverend Insanity",
+      "raw_name": "蛊真人",
+      "genres": ["Xianxia", "Dark Fantasy", "Action"],
+      "chapter_count": 2334,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Warlock of the Magus World",
+      "raw_name": "巫界术士",
+      "genres": ["Fantasy", "Sci-fi", "Action"],
+      "chapter_count": 1200,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Mech Touch",
+      "raw_name": "机甲之触",
+      "genres": ["Sci-fi", "Action", "Adventure"],
+      "chapter_count": 3500,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Emperor's Domination",
+      "raw_name": "帝霸",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 4000,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Desolate Era",
+      "raw_name": "莽荒纪",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 1500,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Lord of the Mysteries",
+      "raw_name": "诡秘之主",
+      "genres": ["Fantasy", "Steampunk", "Horror"],
+      "chapter_count": 1430,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Martial World",
+      "raw_name": "武极天下",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 2300,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Renegade Immortal",
+      "raw_name": "仙逆",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 2000,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Way of the Devil",
+      "raw_name": "魔道天途",
+      "genres": ["Xianxia", "Horror", "Action"],
+      "chapter_count": 1350,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Age of Adepts",
+      "raw_name": "巫师纪元",
+      "genres": ["Fantasy", "Sci-fi", "Action"],
+      "chapter_count": 1300,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Forty Millenniums of Cultivation",
+      "raw_name": "修真四万年",
+      "genres": ["Sci-fi", "Xianxia", "Action"],
+      "chapter_count": 2800,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Super Gene",
+      "raw_name": "超级基因",
+      "genres": ["Sci-fi", "Action", "Adventure"],
+      "chapter_count": 3400,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Library of Heaven's Path",
+      "raw_name": "天道图书馆",
+      "genres": ["Xianxia", "Comedy", "Action"],
+      "chapter_count": 2400,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Tales of Herding Gods",
+      "raw_name": "牧神记",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 2100,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "World Apocalypse Online",
+      "raw_name": "网游之世界末日",
+      "genres": ["LitRPG", "Apocalypse", "Sci-fi"],
+      "chapter_count": 1500,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "City of Sin",
+      "raw_name": "罪恶之城",
+      "genres": ["Fantasy", "Action", "Adventure"],
+      "chapter_count": 1200,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "King of Gods",
+      "raw_name": "神魔天尊",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 1340,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Legend of the Great Sage",
+      "raw_name": "大圣传",
+      "genres": ["Xianxia", "Adventure", "Fantasy"],
+      "chapter_count": 1400,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Godsfall Chronicles",
+      "raw_name": "陨神记",
+      "genres": ["Post-apocalyptic", "Fantasy", "Sci-fi"],
+      "chapter_count": 1300,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Paradise of Demonic Gods",
+      "raw_name": "修罗武神",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 1500,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Castle of Black Iron",
+      "raw_name": "黑铁之堡",
+      "genres": ["Sci-fi", "Action", "Adventure"],
+      "chapter_count": 1400,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Shadow Hack",
+      "raw_name": "暗影主宰",
+      "genres": ["LitRPG", "Action", "Adventure"],
+      "chapter_count": 1200,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "True Martial World",
+      "raw_name": "真武世界",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 2300,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Nightmare's Call",
+      "raw_name": "噩梦之主",
+      "genres": ["Horror", "Fantasy", "Adventure"],
+      "chapter_count": 1100,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Strongest System",
+      "raw_name": "最强系统",
+      "genres": ["LitRPG", "Action", "Adventure"],
+      "chapter_count": 1400,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Throne of Magical Arcana",
+      "raw_name": "巫师世界",
+      "genres": ["Fantasy", "Sci-fi", "Adventure"],
+      "chapter_count": 1180,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Experimental Log of the Crazy Lich",
+      "raw_name": "疯巫妖的实验日志",
+      "genres": ["Fantasy", "Adventure", "Comedy"],
+      "chapter_count": 1000,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Stop, Friendly Fire!",
+      "raw_name": "不要打队友",
+      "genres": ["LitRPG", "Action", "Adventure"],
+      "chapter_count": 1200,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Dragon King's Son-In-Law",
+      "raw_name": "龙王女婿",
+      "genres": ["Xianxia", "Action", "Adventure"],
+      "chapter_count": 1300,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Legendary Mechanic",
+      "raw_name": "机械神皇",
+      "genres": ["LitRPG", "Sci-fi", "Adventure"],
+      "chapter_count": 1460,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Night Ranger",
+      "raw_name": "暗夜游侠",
+      "genres": ["LitRPG", "Fantasy", "Action"],
+      "chapter_count": 1400,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Daily Life of the Immortal King",
+      "raw_name": "仙王的日常生活",
+      "genres": ["Xianxia", "Action", "Fantasy"],
+      "chapter_count": 1300,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "48 Hours a Day",
+      "raw_name": "一天48小时",
+      "genres": ["Adventure", "Sci-fi", "Action"],
+      "chapter_count": 1400,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Soul Land IV",
+      "raw_name": "斗罗大陆IV",
+      "genres": ["Fantasy", "Action", "Adventure"],
+      "chapter_count": 1500,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Ultimate Evolution",
+      "raw_name": "绝对进化",
+      "genres": ["Sci-fi", "Action", "Adventure"],
+      "chapter_count": 1400,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Supremacy Games",
+      "raw_name": "至高游戏",
+      "genres": ["LitRPG", "Sci-fi", "Action"],
+      "chapter_count": 1300,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Divine Throne of Primordial Blood",
+      "raw_name": "原血神座",
+      "genres": ["Fantasy", "Action", "Adventure"],
+      "chapter_count": 1300,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "Trafford's Trading Club",
+      "raw_name": "特拉福买家俱乐部",
+      "genres": ["Fantasy", "Adventure", "Mystery"],
+      "chapter_count": 1100,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Record of Unusual Creatures",
+      "raw_name": "异常生物见闻录",
+      "genres": ["Fantasy", "Adventure", "Sci-fi"],
+      "chapter_count": 1500,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "The Wizard World",
+      "raw_name": "巫师世界",
+      "genres": ["Fantasy", "Adventure", "Action"],
+      "chapter_count": 1200,
+      "url": "",
+      "raw_url": ""
+    },
+    {
+      "title": "World's Best Martial Artist",
+      "raw_name": "全球武神",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "chapter_count": 1400,
+      "url": "",
+      "raw_url": ""
+    }
+  ]
+}
